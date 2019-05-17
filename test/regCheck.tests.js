@@ -7,6 +7,7 @@ describe('regCheck function' , function(){
     it('should return false if a registration number endwith a different town "MP"' , function(){
         assert.equal(isMP, false);
 
+        
     });
 
 });  

@@ -5,5 +5,3 @@ function yearsAgo(year){
     return (currentyear - year)
    
   }
-
-  //alert(yearsAgo(2020));

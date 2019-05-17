@@ -8,6 +8,7 @@ function findItemsOver20(param){
         //console.log(num)
         item.push(list)
      }
+     
      }
      return item
      

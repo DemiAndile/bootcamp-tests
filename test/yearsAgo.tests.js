@@ -1,9 +1,5 @@
 describe('yearAgo function' , function(){
     it('should return 0 if it is the current year' , function(){
-        //test for the current year
-        //              previous
-        //               year to come
-        //              test for negative year
 
         assert.deepEqual(yearsAgo(2019), 0);
     });
